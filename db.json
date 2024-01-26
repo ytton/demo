@@ -1,8 +1,13 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "home": [
+    {
+      "cover": "placehold.it/200*300",
+      "title": "标题1"
+    },
+    {
+      "cover": "placehold.it/200*300",
+      "title": "标题2"
+    }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
